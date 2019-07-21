@@ -9,7 +9,7 @@
 #define LOG(x) std::cout << x << std::endl;
 
 int main() {
-
+  // var on the Stack
   int var = 8;
   int* ptr = &var;
   *ptr = 10;
