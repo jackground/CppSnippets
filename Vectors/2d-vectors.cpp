@@ -1,3 +1,9 @@
+/**
+ * 2d-vectors
+ *
+ * Copyright (c) 2019, Jack Hawley.
+ */
+
 #include <algorithm>
 #include <cmath>
 #include <cstdio>
